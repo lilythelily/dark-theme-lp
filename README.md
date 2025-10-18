@@ -1,3 +1,3 @@
 ## Frontend Mentor Coding Challenge Solution ✨
 
-<img width="960" height="1850" alt="Screenshot" src="https://github.com/user-attachments/assets/80f99bec-d162-412c-9235-428971b623fc" />
+<img width="400" height="771" alt="Screenshot" src="https://github.com/user-attachments/assets/0b6e150a-6a7f-4a39-a1c2-b0154e01b769" />
